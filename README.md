@@ -1,5 +1,5 @@
 # Little Wins Marketing Website
-[images/MacBook_Mockup.png]
+![LittleWinsWebsite](images/MacBook_Mockup.png)
 
 This is the main marketing website for Little Wins, a platform designed to help individuals achieve their goals and make positive changes in their lives. The website is responsibe and accessible on a range of devices, making it easy for users to navigate and find valuable content.
 
@@ -49,14 +49,14 @@ The website incorporates captivating and relevant imagery, including a large bac
 
 #### Wireframes
 
-- ## Home Page
-[https://share.balsamiq.com/c/smYyGncRJNxGNbUJ8XuJxc.png]
+- # Home Page
+![Home Page](https://share.balsamiq.com/c/smYyGncRJNxGNbUJ8XuJxc.png)
 
-- ## Mobile
-[https://share.balsamiq.com/c/iKyasJHCpZ2BQswVLtKvFD.png]
+- # Mobile
+![Mobile Wire Frame](https://share.balsamiq.com/c/iKyasJHCpZ2BQswVLtKvFD.png)
 
-- ## Goals/Contact Page
-[https://share.balsamiq.com/c/o1EuSi7p5ZP2sGfqREWfFY.png]
+- # Goals/Contact Page
+![Contact Us Page Wireframe](https://share.balsamiq.com/c/o1EuSi7p5ZP2sGfqREWfFY.png)
 
 ## Features
 
@@ -64,7 +64,7 @@ The website incorporates captivating and relevant imagery, including a large bac
 - Interactive elements to enhance user engagement.
 - Consistent theme with nav bar, sections and media/media links.
 
-[images/responsive_design.png]
+![media](images/responsive_design.png)
 
 ## Technologies Used
 
@@ -147,7 +147,7 @@ The website is deployed using GitHub Pages, which hosts the project directly fro
 ### Code
 
 - The full-screen hero image code came from this StackOverflow post. 
-[images/Homepage.png]
+![hero banner](images/Homepage.png)
 
 - Bootstrap 4: Bootstrap Library used throughout the project mainly to make the site responsive using the Bootstrap Grid System.
 
@@ -159,13 +159,13 @@ All content was written by the developer.
 
 All images were created by the developer.
 ## Home - About page
-[images/iPad_home.png]
+![home page](images/iPad_home.png)
 
 ## Process - Second page
-[images/Process_screen.png]
+![process page](images/Process_screen.png)
 
 ## Goals - Contact and Resources page
-[images/Contact.png]
+![goals page](images/Contact.png)
 
 
 ### Acknowledgements
