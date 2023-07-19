@@ -250,7 +250,7 @@ h1, h2, h3, h4, h5 {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 50vh;
+  height: 100vh;
 }
 
 .testimonial-section .image-banner {
